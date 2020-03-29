@@ -1,6 +1,6 @@
 //Write Java program which accept String from user and display below pattern.
 //Input : Hello
-//Output : H # # # #
+//Output :         H # # # #
 //		   H e # # #
 //		   H e l # #
 //		   H e l l #
