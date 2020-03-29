@@ -1,7 +1,7 @@
 //Write Java program which accept String from user and display below pattern.
 //Input : Hello
 //Output : H
-//		   H e
+//         H e
 //         H e l
 //         H e l l
 //         H e l l o
